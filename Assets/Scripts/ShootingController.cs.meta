@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7dd7d0cf658c0f24997f43739bb401fc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gumPrefab: {fileID: 3707067823742596091, guid: 762a8725d36e40a45a6b4ec7c96f7e98, type: 3}
+  - firePoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

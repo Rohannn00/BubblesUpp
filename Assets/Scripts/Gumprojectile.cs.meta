@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: b15249fffff1d904698c578c41c9328e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Puddleprefab: {fileID: 5309693035450249946, guid: feff78e212f099d4d892df65c2890e9b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
